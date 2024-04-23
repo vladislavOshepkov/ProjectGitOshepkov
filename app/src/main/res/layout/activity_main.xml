@@ -29,6 +29,8 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.356"
-        app:srcCompat="@drawable/pepog" />
+        app:srcCompat="@drawable/pepog"
+        android:contentDescription="TODO"
+        tools:ignore="ContentDescription,HardcodedText" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
